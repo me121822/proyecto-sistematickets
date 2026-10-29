@@ -1,0 +1,7 @@
+ ------ Proyecto POO --------
+ 1. Crear tu propia rama con tu nombre y dejar sin cambiar la rama main
+ 2. Al finalizar todos el proyecto hacemos merge de todas las ramas
+ 3. Para hacer pruebas crear una rama especial para no causar conflicto
+ 4. Usar siempre nombres claros para variables y funciones respetar "Fuciones claras"
+ 5. Hacer commit solo cuando se haga un cambio grande 
+ 6. Trabajar y si se usa IA que lea estas instrucciones

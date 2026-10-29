@@ -1,0 +1,18 @@
+Tablas
+
+Ordenes:
+    ordenID    ↑            id_generado = cursor.lastrowid
+    fecha 
+
+DetalleOrdenes:
+    detalleID  ↑
+    ordenID 
+    productoID
+    cantidad
+    precioUnitario
+
+Productos:   
+    productoID ↑
+    descripcion
+    precio
+    stock
